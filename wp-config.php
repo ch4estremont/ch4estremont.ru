@@ -20,10 +20,10 @@
 
 // ** Параметры MySQL: Эту информацию можно получить у вашего хостинг-провайдера ** //
 /** Имя базы данных для WordPress */
-define( 'DB_NAME', 'remont' );
+define( 'DB_NAME', 'admin_remont' );
 
 /** Имя пользователя MySQL */
-define( 'DB_USER', 'remont' );
+define( 'DB_USER', 'admin_remont' );
 
 /** Пароль к базе данных MySQL */
 define( 'DB_PASSWORD', 'yC8yA1bV1krN5m' );
